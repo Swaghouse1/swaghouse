@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SWAG House - Game Studio</title>
+    <title>SWAG House</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -98,7 +98,7 @@
 
     <div class="container">
         <h2>Welcome to SWAG House</h2>
-        <p>Experience the world of gaming like never before. We are dedicated to creating innovative and exciting games that will keep you entertained for hours.</p>
+        <p>SWAG House team is dedicated to creating innovative and engaging games that provide a unique and memorable experience for players. With a focus on quality and creativity, we strive to push the boundaries of what is possible in the gaming industry. At SWAG House, we believe that games should be both fun and challenging. That's why we work tirelessly to develop games that are not only entertaining, but also require skill and strategy to master. Our goal is to create games that keep players coming back for more, and we are committed to delivering the best possible gaming experience to our audience.</p>
 
         <h2>Our Games</h2>
         <div class="games">
