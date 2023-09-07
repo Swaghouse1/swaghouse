@@ -100,24 +100,9 @@
         <h2>Welcome to SWAG House</h2>
         <p>SWAG House team is dedicated to creating innovative and engaging games that provide a unique and memorable experience for players. With a focus on quality and creativity, we strive to push the boundaries of what is possible in the gaming industry. At SWAG House, we believe that games should be both fun and challenging. That's why we work tirelessly to develop games that are not only entertaining, but also require skill and strategy to master. Our goal is to create games that keep players coming back for more, and we are committed to delivering the best possible gaming experience to our audience.</p>
 
-        <h2>Our Games</h2>
-        <div class="games">
-            <div class="game">
-                <img src="game1.jpg" alt="Game 1">
-                <h3>Game Title 1</h3>
-                <p>Description of Game 1.</p>
-            </div>
-            <div class="game">
-                <img src="game2.jpg" alt="Game 2">
-                <h3>Game Title 2</h3>
-                <p>Description of Game 2.</p>
-            </div>
-            <div class="game">
-                <img src="game3.jpg" alt="Game 3">
-                <h3>Game Title 3</h3>
-                <p>Description of Game 3.</p>
-            </div>
-        </div>
+        <h2>Visit us on Play store</h2>
+        <p> SWAG House is a trailblazing gaming company that has redefined the gaming landscape with its exceptional creativity and unwavering commitment to delivering top-notch gaming experiences. With a team of passionate developers and designers at the helm, SWAG House consistently produces games that not only entertain but also inspire and challenge players to new heights. Their dedication to quality is evident in each meticulously crafted title, and they take pride in offering a diverse range of gaming genres to cater to all tastes. Whether you're a fan of action-packed adventures, mind-bending puzzles, or immersive simulations, SWAG House has a game that will leave you eagerly anticipating their next release. To dive into the world of SWAG House and discover their latest gems, don't hesitate to visit their Play Store page. Prepare to be captivated, enthralled, and thoroughly engrossed in the immersive realms they've masterfully brought to life. Check out games on play store : https://play.google.com/store/apps/developer?id=Swag+House</p>
+
     </div>
 
     <footer>
