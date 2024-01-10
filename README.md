@@ -93,7 +93,7 @@
             <a href="#">Home</a>
             <a href="#">Games</a>
             <a href="#">About Us</a>
-            <a href="privacy.html">Privacy Policy</a>
+            <a href="privacy">Privacy Policy</a>
         </nav>
     </header>
 
